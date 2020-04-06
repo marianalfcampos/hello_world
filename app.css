@@ -1,5 +1,7 @@
+h2 {
+	color: blue;
+}
+
 h1 {
-	color: #2c3e50;
-	font-size: 2.0rem;
-	font-weight: 700;
+	background-color: yellow;
 }
